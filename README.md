@@ -8,31 +8,31 @@
 To create a simple calculator using HTML, CSS, and JavaScript that performs addition, subtraction, multiplication, and division of two numbers.
 
 ## Procedure:
-Create an HTML file with:
+Step 1: Create an HTML file with:
 
-Two input fields for numbers.
+Step 2: Two input fields for numbers.
 
-A dropdown menu for operation selection.
+Step 3: A dropdown menu for operation selection.
 
-A button to perform the calculation.
+Step 4: A button to perform the calculation.
 
-A result display area.
+Step 5: A result display area.
 
-Write a CSS file to style the calculator with background, layout, colors, and button hover effects.
+Step 6: Write a CSS file to style the calculator with background, layout, colors, and button hover effects.
 
-Write a JavaScript file (script.js) that:
+Step 7: Write a JavaScript file (script.js) that:
 
-Reads the input numbers.
+Step 8: Reads the input numbers.
 
-Gets the selected operation.
+Step 9: Gets the selected operation.
 
-Performs the calculation using switch-case.
+Step 10: Performs the calculation using switch-case.
 
-Handles invalid input and division by zero.
+Step 11: Handles invalid input and division by zero.
 
-Displays the result on the webpage.
+Step 12:Displays the result on the webpage.
 
-Link HTML, CSS, and JavaScript together and run the project in a web browser.
+Step 13: Link HTML, CSS, and JavaScript together and run the project in a web browser.
 ## Program:
 ```
 .html
